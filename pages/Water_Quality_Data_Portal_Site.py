@@ -13,8 +13,8 @@ st.divider()
 st.write("This site currently isn't live")
 st.divider()
 st.write("The purpose of this site is to create an online site in which the public can see Horizons water quality data they collect,"
-         "currently there is on easy way to access it, so this site will let you see it in graph form and download the data. There will"
-         "lots of room for growth")
+         "currently there is on easy way to access it, so this site will let you see it in graph form and download the data. There will "
+         "be lots of room for growth")
 st.divider()
 st.image("images/WQDPhome.png")
 st.write("This section of the site simply explains its uses as well as giving a disclaimer")
@@ -30,6 +30,6 @@ st.write("This section lets you see the name of the site, a iframe explaining th
          "We can also see it represents the data in a scatter graph to let the user see any trends, also letting the user select specific dates")
 st.divider()
 st.image("images/WQDOvisualisation2.png")
-st.write("There is also a function to see it in bargraph form if ther prefer")
+st.write("There is also a function to see it in bar-graph form if ther prefer")
 st.divider()
 # --------------------------------------------------------------------------------

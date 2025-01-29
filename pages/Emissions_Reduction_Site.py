@@ -20,7 +20,7 @@ st.write("This section will simply state the reason of the site and have some br
 st.divider()
 st.image("images/ERSsearch.jpg")
 st.write("This section of the site lets the user look through all the resources and search through for the emission "
-         "reduction they want to focus on")
+         "reduction type they want to focus on")
 st.divider()
 st.image("images/ERSeducational.jpg")
 st.write("This section lets the user learn about some topics about emissions reduction through helpful slides and videos")
