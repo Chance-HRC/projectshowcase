@@ -16,7 +16,7 @@ st.write("The purpose of this site is to create a server based website. This mea
          "as well as not saving anything once submitted. This means for Horizons which has some documents they might want to keep "
          "secure, they can use this website without any stress")
 st.divider()
-st.image("images/pdf_index.png")
+st.image("images/pdf_index.PNG")
 st.write("This section of the site simply explains its uses")
 st.divider()
 st.image("images/pdf_combine.png")
